@@ -1,0 +1,26 @@
+.facebook-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+    font-size: 1.2rem;
+  }
+  
+  .facebook-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #3b5998;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    cursor: pointer;
+    width: 60%;
+    margin-bottom: 15px;
+  }
+  
+  .facebook-button:hover {
+    background-color: #2d4373;
+    opacity: 0.8;
+  }
+  

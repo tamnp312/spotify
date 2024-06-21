@@ -1,0 +1,27 @@
+.google-icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+    font-size: 1.2rem;
+  }
+  
+  .google-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    background-color: #db4437;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    width: 60%;
+    margin-bottom: 15px;
+  }
+  
+  .google-button:hover {
+    background-color: #c53929;
+    opacity: 0.8;
+  }
+  
